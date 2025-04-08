@@ -2,7 +2,7 @@
 
 #include <string>
 #include <stdexcept>
-#include <math>
+#include <cmath>
 #include "GameEntry.h"
 
 #ifndef SCORE_H
